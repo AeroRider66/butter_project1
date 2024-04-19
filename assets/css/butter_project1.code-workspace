@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../FSF-PT-EAST-APRIL-040824"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FSF-PT-EAST-APRIL-040824",
+		"liveServer.settings.port": 5501
+	}
+}
