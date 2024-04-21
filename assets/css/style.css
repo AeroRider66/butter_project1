@@ -20,10 +20,6 @@ body {
     font-size: 48px;
 }
 
-/* .header h1 .seo {
-    color: #d9dcd6;
-} */
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -91,66 +87,17 @@ p {
     color: #ffffff;
 }
 
-/* .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 .benefit-title h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 .benefit-title img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
-/* combination of following 3 items into a single class */
 .common-info-box {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,71 +107,14 @@ p {
     color: #ffffff;
 }
 
-/* .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} 
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-/* Combine all these (next 3) to - set common image size */
-/* .describe_image_size img {
-    max-height: 200px;
-}
- */
  .common-info-box img {
     max-height: 200px;
 }
-/* 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
-
-/* Combine all these (next 3) - they are the same h2 class */
-/* .describe_heading_size h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
- } */
 
 .common-info-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 .footer {
     padding: 30px;
