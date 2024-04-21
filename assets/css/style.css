@@ -161,6 +161,11 @@ p {
     color: #ffffff;
 }
 
+/* Combine all these (next 3) to - set common image size */
+/* .describe_image_size img {
+    max-height: 200px;
+}
+ */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +177,12 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* Combine all these (next 3) - they are the same h2 class */
+/* .describe_heading_size h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+ } */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
