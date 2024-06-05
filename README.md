@@ -1,8 +1,8 @@
-# butter_project1
+# Challenge #1
 # HoriSEOn
-Challenge from HTML-CSS-Git module
+Challenge from HTML-CSS-Git Module 1
 
-Webpage is an interduction/explanatory page for company services.  Stand alone page with no external linkage or information input blocks at this time. 
+Webpage is an introduction/explanatory page for company services.  Stand alone page with no external linkage or information input blocks at this time. 
 Refactoring given code for Horiseon web page for accessiblity puposes.
 
 **index.html**
@@ -21,6 +21,22 @@ Refactoring given code for Horiseon web page for accessiblity puposes.
 2. Changed the 3 image sizing classes into a single class definition.
 3. Combined the 3 info headers into a single header class definition.
 4. Combined the 3 benefit bar headers into a single class definitions.
+
+**Resizing**
+This website will resize both the images and layout as necessary for smaller width browser windows.
+
+## Browser Wide View ##
+
+![alt text](Challenge-1_wide.JPG)
+
+## Browser Narrow View
+
+![alt text](Challenge-1_narrow.JPG)
+
+
+### GitHub Repository URL: https://github.com/AeroRider66/butter_project1 ###
+
+### Deployed URL: https://aerorider66.github.io/butter_project1/ ###
 
 ## License
 
